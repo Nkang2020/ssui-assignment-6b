@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ssui-assignment-6b/static/css/main.b100e6da.chunk.css",
+    "main.js": "/ssui-assignment-6b/static/js/main.fafcfe39.chunk.js",
+    "main.js.map": "/ssui-assignment-6b/static/js/main.fafcfe39.chunk.js.map",
+    "runtime-main.js": "/ssui-assignment-6b/static/js/runtime-main.6e8d91a5.js",
+    "runtime-main.js.map": "/ssui-assignment-6b/static/js/runtime-main.6e8d91a5.js.map",
+    "static/js/2.d3539e7f.chunk.js": "/ssui-assignment-6b/static/js/2.d3539e7f.chunk.js",
+    "static/js/2.d3539e7f.chunk.js.map": "/ssui-assignment-6b/static/js/2.d3539e7f.chunk.js.map",
+    "index.html": "/ssui-assignment-6b/index.html",
+    "precache-manifest.e9988714505350394a47bb3b7778568c.js": "/ssui-assignment-6b/precache-manifest.e9988714505350394a47bb3b7778568c.js",
+    "service-worker.js": "/ssui-assignment-6b/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/ssui-assignment-6b/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/ssui-assignment-6b/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e8d91a5.js",
+    "static/js/2.d3539e7f.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.fafcfe39.chunk.js"
+  ]
+}
